@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 ## App installation
 1) `git clone https://github.com/mccommas/NG-2-Frontline-Education-Code-Challenge.git'
-2) `npm install
+2) `npm install'
 
 3) run  `npm install json-server`
 
