@@ -1,30 +1,14 @@
 <div class="container">
-
-
-<h5>{{title}}</h5>
-  <table class="table table-sm table-hover">
-    <tr>
-      <th>&nbsp;</th>
-      <th colspan="4">Employee</th>
-      <th colspan="2">&nbsp;</th>
-    </tr>
-    <tr>
-      <th>Created</th>
-      <th>Employee Type (Type ID)</th>
-      <th>First Name</th>
-      <th>ID</th>
-      <th>Last Name</th>
-      <th>ID of Record</th>
-      <th>Location</th>
-    </tr>
-    <tr *ngFor="let rec of employeeRecords">
-      <td>{{rec.created}}</td>
-      <td>{{rec.employeeType}} ({{rec.employeeTypeId}})</td>
-      <td>{{rec.firstName}}</td>
-      <td>{{rec.employeeId}}</td>
-      <td>{{rec.lastName}}</td>
-      <td>{{rec.recordId}}</td>
-      <td>{{rec.location}}</td>
-    </tr>
-  </table>
+    <div class="row">
+        <div class="col-md-12">
+    <h3>{{title}}</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+    <ag-grid-ng2 style="width: 100%; height:500px;" #agGrid class="ag-dark"
+    [gridOptions]="gridOptions">
+   </ag-grid-ng2>
+</div>
+</div>
 </div>

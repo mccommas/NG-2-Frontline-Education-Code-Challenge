@@ -1,0 +1,76 @@
+{
+    "Employees": [
+        {
+            "Created": "01/01/2016",
+            "Type": "1",
+            "Employee": {
+                "Id": "1",
+                "FirstName": "Alexa",
+                "LastName": "Romin",
+                "RecordId": "1001",
+                "EmployeeType": "BP10"
+            },
+            "Location":"London"
+        },
+        {
+            "Created": "01/02/2016",
+            "Type": "1",
+            "Employee": {
+                "Id": "2",
+                "FirstName": "Aparna",
+                "LastName": "Thakur",
+                "RecordId": "1002",
+                "EmployeeType": "BP10"
+            },
+            "Location":"London"
+        },
+        {
+            "Created": "01/22/2016",
+            "Type": "3",
+            "Employee": {
+                "Id": "3",
+                "FirstName": "Harmayni",
+                "LastName": "Harmayni",
+                "RecordId": "1003",
+                "EmployeeType": "BP15"
+            },
+            "Location":"London"
+        },
+        {
+            "Created": "02/31/2016",
+            "Type": "4",
+            "Employee": {
+                "Id": "4",
+                "FirstName": "Ron",
+                "LastName": "Wissley",
+                "RecordId": "1004",
+                "EmployeeType": "BP15"
+            },
+            "Location":"London"
+        },
+        {
+            "Created": "03/01/2016",
+            "Type": "5",
+            "Employee": {
+                "Id": "5",
+                "FirstName": "Harry",
+                "LastName": "Potter",
+                "RecordId": "1005",
+                "EmployeeType": "BP20"
+            },
+            "Location":"London"
+        },
+        {
+            "Created": "03/01/2016",
+            "Type": "6",
+            "Employee": {
+                "Id": "6",
+                "FirstName": "Jefferey",
+                "LastName": "Maccommas",
+                "RecordId": "1006",
+                "EmployeeType": "BP20"
+            },
+            "Location":"London"
+        }
+    ]
+}
