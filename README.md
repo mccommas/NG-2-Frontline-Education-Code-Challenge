@@ -2,8 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 ## App installation
-1) `npm install'
-2)`npm install json-server'
+1) `npm install`
+
+2)`npm install json-server`
+
 
 ## Development server
 
