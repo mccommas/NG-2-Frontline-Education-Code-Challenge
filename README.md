@@ -2,17 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 ## App installation
-1) `npm install`
+1) 'git clone `https://github.com/mccommas/NG-2-Frontline-Education-Code-Challenge.git`
+2) `npm install
 
-2) run  `npm install json-server`
+3) run  `npm install json-server`
 
-3 )cd => Frontline-Education-Code-Challenge/JsonData
+4 )cd => Frontline-Education-Code-Challenge/JsonData
 
-4 run `json-server employee-data.json`
+5 run `json-server employee-data.json`
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ 6) Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
