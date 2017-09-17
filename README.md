@@ -4,8 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## App installation
 1) `npm install`
 
-2) `npm install json-server`
-3 )cd => `Frontline-Education-Code-Challenge/JsonData`
+2) run  `npm install json-server`
+
+3 )cd => Frontline-Education-Code-Challenge/JsonData
+4 run 'json-server employee-data.json'
 
 
 ## Development server
