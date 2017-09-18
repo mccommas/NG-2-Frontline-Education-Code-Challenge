@@ -10,7 +10,7 @@ import { GridOptions } from "ag-grid/main";
 })
 export class AppComponent {
   title = 'frontline-education-code-challenge';
-  gridOptions: GridOptions = 
+  gridOptions: GridOptions =
   {
     enableFilter:true,
     enableSorting: true
@@ -28,7 +28,7 @@ export class AppComponent {
 
   private createColumnDefs() {
     return [
-      { headerName: "Created Ts", field: "Created" },
+      { headerName: "Created", field: "Created" },
       { headerName: "Type", field: "Type" },
       { headerName: "ID", field: "Id" },
       { headerName: "First Name", field: "FirstName" },
