@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1) git clone https://github.com/mccommas/NG-2-Frontline-Education-Code-Challenge.git
 2) `npm install'
 
-3) run  `npm install json-server`
+3) run  `npm install -g json-server`
 
 4 )cd => Frontline-Education-Code-Challenge/JsonData
 
